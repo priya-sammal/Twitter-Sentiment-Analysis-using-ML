@@ -12,5 +12,5 @@ Sentiment Classification: Implement and compare various machine learning models 
 Visualization: Generate insightful visualizations to showcase sentiment trends and key insights.
 
 
-Whether you're a beginner in data science or an experienced coder, this project provides a comprehensive guide to applying NLP and machine learning techniques to real-world data. Gain valuable insights into how businesses and organizations can leverage social media sentiment analysis for better decision-making. 🌟
+Whether you're a beginner in data science or an experienced coder, this project provides a comprehensive guide to applying NLP and machine learning techniques to real-world data. Gain valuable insights into how businesses and organizations can leverage social media sentiment analysis for better decision-making. 🌟[kaggle.json]
 
